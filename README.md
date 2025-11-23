@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 About Me  
-I am an enthusiastic and self-motivated **Java Full Stack Developer** with **1 year of professional experience** at Softtwig Technology, Chennai.  
+I am an enthusiastic and self-motivated **Java Full Stack Developer** with **2 year of professional experience** at Softtwig Technology, Chennai.  
 I specialize in building **scalable backend systems, interactive frontends, and AI-integrated applications** using **Java, Spring Boot, Angular, and MySQL**.
 
 I love solving real-world problems and continuously learning new technologies.
